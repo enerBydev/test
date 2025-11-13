@@ -1,9 +1,10 @@
+<script setup lang="ts">
+
+</script>
+
 <template>
-    <div class="about">
+    <div>
         <h1>About Page</h1>
-        <p>Welcome to the about page</p>
+        <p>This is the about page</p>
     </div>
 </template>
-
-<script lang="ts">
-</script>

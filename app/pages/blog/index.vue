@@ -4,7 +4,7 @@
 
 <template>
     <div>
-        <h1>Home Page</h1>
-        <p>Welcome to the home page</p>
+        <h1>Blog Page</h1>
+        <p>This is the blogpage</p>
     </div>
 </template>
